@@ -1,5 +1,5 @@
 # The RUST JOURNEY
-This repo is meant to get you started on your rust journey, inspired from [0atman](https://github.com/0atman/noboilerplate),
+This repo is meant to get you started on your rust journey, inspired from [0atman](https://github.com/0atman/noboilerplate).
 Each folder contained in this repo will represent a section from the official [RUST BOOK](https://doc.rust-lang.org/book/)
 
 1.Chapter 0 - 
